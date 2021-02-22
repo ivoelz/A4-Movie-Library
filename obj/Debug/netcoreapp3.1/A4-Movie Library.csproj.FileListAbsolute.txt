@@ -1,0 +1,17 @@
+C:\Users\isabe\OneDrive\Desktop\.Net Databse Programming\A4-Movie Library\bin\Debug\netcoreapp3.1\A4-Movie Library.exe
+C:\Users\isabe\OneDrive\Desktop\.Net Databse Programming\A4-Movie Library\bin\Debug\netcoreapp3.1\A4-Movie Library.deps.json
+C:\Users\isabe\OneDrive\Desktop\.Net Databse Programming\A4-Movie Library\bin\Debug\netcoreapp3.1\A4-Movie Library.runtimeconfig.json
+C:\Users\isabe\OneDrive\Desktop\.Net Databse Programming\A4-Movie Library\bin\Debug\netcoreapp3.1\A4-Movie Library.runtimeconfig.dev.json
+C:\Users\isabe\OneDrive\Desktop\.Net Databse Programming\A4-Movie Library\bin\Debug\netcoreapp3.1\A4-Movie Library.dll
+C:\Users\isabe\OneDrive\Desktop\.Net Databse Programming\A4-Movie Library\bin\Debug\netcoreapp3.1\A4-Movie Library.pdb
+C:\Users\isabe\OneDrive\Desktop\.Net Databse Programming\A4-Movie Library\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\isabe\OneDrive\Desktop\.Net Databse Programming\A4-Movie Library\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\isabe\OneDrive\Desktop\.Net Databse Programming\A4-Movie Library\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\isabe\OneDrive\Desktop\.Net Databse Programming\A4-Movie Library\obj\Debug\netcoreapp3.1\A4-Movie Library.csprojAssemblyReference.cache
+C:\Users\isabe\OneDrive\Desktop\.Net Databse Programming\A4-Movie Library\obj\Debug\netcoreapp3.1\A4-Movie Library.AssemblyInfoInputs.cache
+C:\Users\isabe\OneDrive\Desktop\.Net Databse Programming\A4-Movie Library\obj\Debug\netcoreapp3.1\A4-Movie Library.AssemblyInfo.cs
+C:\Users\isabe\OneDrive\Desktop\.Net Databse Programming\A4-Movie Library\obj\Debug\netcoreapp3.1\A4-Movie Library.csproj.CoreCompileInputs.cache
+C:\Users\isabe\OneDrive\Desktop\.Net Databse Programming\A4-Movie Library\obj\Debug\netcoreapp3.1\A4-Movie Library.csproj.CopyComplete
+C:\Users\isabe\OneDrive\Desktop\.Net Databse Programming\A4-Movie Library\obj\Debug\netcoreapp3.1\A4-Movie Library.dll
+C:\Users\isabe\OneDrive\Desktop\.Net Databse Programming\A4-Movie Library\obj\Debug\netcoreapp3.1\A4-Movie Library.pdb
+C:\Users\isabe\OneDrive\Desktop\.Net Databse Programming\A4-Movie Library\obj\Debug\netcoreapp3.1\A4-Movie Library.genruntimeconfig.cache
